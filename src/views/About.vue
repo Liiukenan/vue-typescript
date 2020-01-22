@@ -9,7 +9,7 @@
   export default class HelloWorld extends Vue {
     mounted(){
       const hello : string = "Hello2 World!"
-      console.log(hello)
+      console.log(hello);
     }
   }
 </script>
